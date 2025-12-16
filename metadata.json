@@ -1,0 +1,5 @@
+{
+  "name": "ThermoLogic: Heating Strategy Simulator",
+  "description": "An interactive tool to simulate and compare home heating strategies based on building physics. Understand the impact of insulation, thermal mass, and heating systems on comfort and energy use.",
+  "requestFramePermissions": []
+}
